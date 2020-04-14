@@ -1,0 +1,2 @@
+Resources/pollution_us_2000_2016.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
