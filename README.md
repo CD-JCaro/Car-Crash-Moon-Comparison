@@ -1,7 +1,7 @@
 # Project1
 Project 1... Group: Jonathan Caro, Mark McPherson, Brian Henley
 Project Proposal
-Caro-Henley-McPherson
+
 
 This project seeks to illustrate the effect of California’s "shelter in place" order had on air quality in specific regions of the state's South Coast Air Quality Management District.  Los Angeles County, California, has been sheltering in place since March 21, 2020, and the order is expected to end no sooner than May 1, 2020.  By utilizing data from the AQI for the days during the lockdown and comparing those numbers with the previous year's data, this project seeks to quantify the effect of sheltering in place versus not sheltering in place on air quality.  The project considers wildfires and other smog-producing events that would affect the air quality and accounts for these factors so that the analysis isn’t influenced by an event outside the scope of this project.
 
