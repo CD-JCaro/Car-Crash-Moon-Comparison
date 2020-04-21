@@ -1,0 +1,21 @@
+Our main finding was that the moon phases have no observable effect on the frequency or severity of car accidents in the UK
+
+Does the phase of the moon affect the amount of accidents in the UK?
+	Our findings show that the phase of the moon has no correlation to the number of accidents.
+	The pie charts of the total, as well as the yearly breakdown, show that there is no correlation.
+	
+Does the phase of the moon affect the severity of accidents in the UK?
+	Once again, it appears that the phase has no impact. Our pie charts of the injury breakdown per phase
+	indicate that there is no correlation between the two.
+	
+Does the number of accidents increase during moon phase days in the UK?
+	Looking at yearly accident per day bar graph, it is evident that there is no difference in accident frequency
+	between moon phase days and normal days.
+	
+Does the hour of the day affect frequency of accidents in regards to moon phase days in the UK?
+	As per the trend, there appeard to be no difference between normal days and moon days in the 
+	hourly breakdown of accidents. The Phase v NonPhase accidents graph shows the near identical
+	lines of accidents per hour
+
+	
+	
