@@ -1,5 +1,6 @@
-# Project1
-Project 1... Group: Jonathan Caro, Mark McPherson, Brian Henley
+# Car Crash Moon Comparison
+
+Group: Jonathan Caro, Mark McPherson, Brian Henley
 
     Our analysis seeks to discover if a correlation exists between the four moon phasis and the severity of car crashes taking place during that transition period.  This analysis considered the period to be analyzed in terms of affecting as the day before, the day of, and the day after a given change: third quarter, new moon, full moon, and first quarter.  For example, if a full moon is on the 15th of a given month, then the period analyzed for correlations to the severity of car crashes is the 14th, 15th, and 16th. 
     
